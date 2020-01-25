@@ -83,7 +83,7 @@ def adding_matz
      }
 yuki = {:yukihiro_matsumoto => {:known_for => "Ruby", :languages => ["LISP", "C"] }}
 programmer_hash.store(yuki)
-programmer_hash
+return programmer_hash
     
 end
 
